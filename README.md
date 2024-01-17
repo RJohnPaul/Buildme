@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/826787aba21a291d51bffef81492113979627c62/Frame%2023.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Buildme/blob/124554751f4e4e3800bf412d0e3f3140d2539e7b/Frame%2029.png" alt="Project Banner">
   </br>
 </div>
 
