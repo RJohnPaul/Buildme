@@ -68,7 +68,7 @@ Feel free to use BuildMe to create an impressive online presence for your portfo
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Buildme/blob/6cce7a985b39ea7ffa4fd37019851734d8156c8a/Frame%2030.png" alt="Project Banner">
   </br>
 </div>
 
