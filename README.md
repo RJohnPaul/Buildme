@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Buildme/blob/6b18de188888b7b066fba5a49cc67c2516a5e466/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 </br>
