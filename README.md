@@ -1,5 +1,18 @@
 # BuildMe - Stylish Portfolio Template
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/826787aba21a291d51bffef81492113979627c62/Frame%2023.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 Welcome to BuildMe, a stylish portfolio template that features a flexible, UX-friendly sidebar menu and beautiful stock photos. BuildMe is designed to showcase your projects and personal brand in a visually appealing way.
 
 ## Table of Contents
@@ -52,6 +65,12 @@ Connect with the developer:
 This template is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to use BuildMe to create an impressive online presence for your portfolio!
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CNN_for_Vision_Mod/blob/491454d098865cc20cc09001af825c5ba97f27c7/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
 
 ---
 
